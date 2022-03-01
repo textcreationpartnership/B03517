@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallant newes from the seas. Being a relation of certaine speeches made by Prince Charles, the Duke of Yorke, the Lord Montrosse, sea-men and land-men, with their resolutions: / gathered together by a sea-man lately come from sea, and framed into a song by him; whose name is Tom Smith. To the tune of, The fleat at sea,.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03517</idno>
+            <idno type="STC">Wing G172AB</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[45]</idno>
+            <idno type="EEBO-CITATION">99887578</idno>
+            <idno type="PROQUEST">ocm99887578</idno>
+            <idno type="VID">182303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182303)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gallant newes from the seas. Being a relation of certaine speeches made by Prince Charles, the Duke of Yorke, the Lord Montrosse, sea-men and land-men, with their resolutions: / gathered together by a sea-man lately come from sea, and framed into a song by him; whose name is Tom Smith. To the tune of, The fleat at sea,.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.J.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Rouse up your spirits and make haste away ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Poetry --  Early works to 1800.</term>
+               <term>Sailors --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182303:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>Gallant Newes from the seas.</head>
+            <head type="sub">Being a Relation of certaine speeches made by Prince <hi>Charles,</hi> the Duke of <hi>Yorke,</hi> the Lord <hi>Montroſse,</hi> Sea-men and Land-men, with their Reſolutions: Gathered together by a Sea-men lately come from Sea,</head>
+            <byline>and framed into a Song by him; whoſe name is <hi>Tom Smith.</hi>
+            </byline>
+            <opener>To the tune of, <hi>The Fleat at Sea.</hi>
+            </opener>
+            <div n="2" type="part">
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ROuſe up your ſpirits and make haſte away,</l>
+                  <l>and caſt away needleſſe ſorrow and care,</l>
+                  <l>There is ſuch a Navy of Ships on the Sea,</l>
+                  <l>that hath not bin ſeene this thouſand yeares:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, tan ta ra ra,</hi>
+                     </l>
+                     <l>
+                        <hi>Tan ta ra ra ra, tan ta ra ra.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Wee Sea-men invite you to helpe in each thing</l>
+                  <l>you Land-men if ever you meane to be bleſt,</l>
+                  <l>From whom your joy and comfort doth ſpring,</l>
+                  <l>without whom your Land can neuer have reſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>With that beſpake the Duke ſo bold,</l>
+                  <l>follow my councell every one,</l>
+                  <l>You ſhall want neither Silver nor Gold,</l>
+                  <l>in ſetting my Brother now on his throne:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then good Prince <hi>Charles</hi> did ſend them word,</l>
+                  <l>that they ſhould not too forward be,</l>
+                  <l>O I am unwilling to draw my Sword,</l>
+                  <l>I'd rather have them yeeld to me:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My Lord <hi>Montroſſe,</hi> did anſwer and ſay,</l>
+                  <l>will you ſtand ſtill and looſe your right?</l>
+                  <l>They doe but laugh at your delay,</l>
+                  <l>but wee are reſolved with them to fight:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your Sea-mens hearts are valiant and true,</l>
+                  <l>they wiſh that right may now take place,</l>
+                  <l>They'l ſpend their deareſt blood for you,</l>
+                  <l>ſo well they love your Royall Grace:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, tan ta ra ra,</hi>
+                     </l>
+                     <l>
+                        <hi>Tan ta ra ra ra ra, tan ta ra ra.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>WIth that beſpake the Sea-men then,</l>
+                  <l>with good Prince <hi>Charles</hi> wee'l live and dye,</l>
+                  <l>Wee'l ſhew our ſelves right honeſt men,</l>
+                  <l>fight for our Prince and liberty:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, tan ta ra ra,</hi>
+                     </l>
+                     <l>
+                        <hi>Tan ta ra ra ra, tan ta ra ra.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There's none of them all though they be bace,</l>
+                  <l>ſhall ever bring us to their Bow,</l>
+                  <l>Wee'l ſtoope to none but to his Grace,</l>
+                  <l>to whom true honour now is due:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When the Land-ſouldiers heard theſe words,</l>
+                  <l>their joy of heart did much abound,</l>
+                  <l>Quoth they, while wee have ſtrength &amp; ſwords,</l>
+                  <l>wee will not yeeld an inch of ground:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tand you faſt brave Sea-men wee pray.</l>
+                  <l>and wee ſhall ſoone our Foes confound,</l>
+                  <l>Wee will not reſt by night nor day,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntill wee make Prince <hi>Charles</hi> renown'd:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And when wee bring him to his right,</l>
+                  <l>wee hope theſe Civill Warrs will ceaſe.</l>
+                  <l>Wee ſhall have then no cauſe to fight,</l>
+                  <l>if God and they conclude a peace:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Here's a Health to all by Sea and Land,</l>
+                  <l>that doth the Royall Cauſe defend<g ref="char:punc">▪</g>
+                  </l>
+                  <l>That bravely for Prtnce <hi>Charles</hi> will ſtand,</l>
+                  <l>to bring his troubles to an end:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>God ſend's the rule wee had before,</l>
+                  <l>'twill be the better for honeſt men,</l>
+                  <l>'Twill be the better for rich and poore,</l>
+                  <l>for wee ſhall have no falſ-hood then:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>God bleſſe the man that made this Song,</l>
+                  <l>for he hath honeſtly playd his part.</l>
+                  <l>'Tis pitty he ſhould ſuffer wrong,</l>
+                  <l>who loves the Prince withall his heart:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With tan ta ra ra ra, tan ta ra ra,</hi>
+                     </l>
+                     <l>
+                        <hi>Tan ta ra ra ra, tan ta ra ra.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for W. J. 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
